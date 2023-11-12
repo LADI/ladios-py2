@@ -1,0 +1,2 @@
+export PATH=/opt/ladios-py2/bin:${PATH}
+export LD_LIBRARY_PATH=/opt/ladios-py2/lib
